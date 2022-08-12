@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Demorphic
 - 👀 I’m interested in Javascript / PHP / Web Development
 - 🌱 I’m currently learning Python, Angular, Node.js
-- 💞️ I’m looking to collaborate on any project
+- 💞️ I’m also interested in solidity and blockchain
 - 📫 How to reach me contact@mathewelliott.com
 
 <!---
